@@ -1,10 +1,14 @@
-## Hi there 👋
+## Hey there 👋... How'dja find me here? 
+
+I'm an indefinite student. Curiosity killed my cat, but it hasn't done me in yet.
+
+
+[![roadmap.sh](https://roadmap.sh/card/wide/6761abe68fe51199dac2b1b7?variant=dark)](https://roadmap.sh)
 
 <!--
 **JourneysFutpath/JourneysFutpath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
